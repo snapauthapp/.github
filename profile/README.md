@@ -5,7 +5,10 @@
 
 # SnapAuth
 
-SnapAuth is the easiest and fastest way to add passkeys to your website or native app!
+SnapAuth is the easiest and fastest way to add passkey support to your website or native app!
+
+Whether you want to add passkeys and WebAuthn for multi-factor authentication, or go fully passwordless, SnapAuth has you covered.
+We provide reliable, easy-to-use SDKs and APIs so you can be up and running in minutes.
 
 ## Demo
 
